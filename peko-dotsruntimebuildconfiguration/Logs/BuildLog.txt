@@ -1,0 +1,876 @@
+[             ] Require frontend run.  tundra_peko-dotsruntimebuildconfiguration_w9y.dag no longer valid. FileSignature timestamp changed: settings/peko-dotsruntimebuildconfiguration.json
+*** buildprogram build success (0.16 seconds), 0 items updated, 13 evaluated
+[       6s] Executed build program. Created build graph with 768 nodes.
+[           0s] Freezing tundra_peko-dotsruntimebuildconfiguration_w9y.dag.json into .dag (.dag file didn't exist)
+[           0s] Delete 3 artifact files that are no longer in use. (like artifacts\rsp\18310325037279703330.rsp)
+[ 40/639    0s] WriteResponseFile artifacts/rsp/9402325726472176897.rsp
+[ 41/639    0s] WriteResponseFile artifacts/rsp/16400531640506259256.rsp
+[ 44/639    0s] WriteResponseFile artifacts/rsp/14386957247291196562.rsp
+[ 45/639    0s] WriteResponseFile artifacts/rsp/10583723574304377106.rsp
+[ 46/639    0s] WriteResponseFile artifacts/rsp/18101163513213313234.rsp
+[ 48/639    0s] WriteResponseFile artifacts/rsp/16081383145349982498.rsp
+[ 49/639    0s] WriteResponseFile artifacts/rsp/1564092108798499614.rsp
+[ 75/639    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
+[ 76/639    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[ 77/639    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[ 82/639    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.0.entities
+[ 83/639    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.entityheader
+[ 97/639    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/catalog.bin
+[101/639    1s] C_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[102/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_input_web/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[103/639    0s] C_WebGL_wasm artifacts/lib_unity_lowlevel/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[104/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[105/639    1s] C_WebGL_wasm artifacts/lib_unity_lowlevel/peko-dotsruntimebuildconfiguration/f34z/guard.o
+[106/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_io/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[107/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_io/peko-dotsruntimebuildconfiguration/2a4s/AndroidLoader.o
+[108/639    0s] C_WebGL_wasm artifacts/lib_unity_zerojobs/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[109/639    2s] C_WebGL_wasm artifacts/lib_unity_lowlevel/peko-dotsruntimebuildconfiguration/f34z/allocators.o
+[110/639    0s] C_WebGL_wasm artifacts/lib_unity_zerojobs/peko-dotsruntimebuildconfiguration/5tjv/HTMLWrapper.o
+[111/639    2s] C_WebGL_wasm artifacts/lib_unity_lowlevel/peko-dotsruntimebuildconfiguration/f34z/BurstInit.o
+[112/639    0s] C_WebGL_wasm artifacts/lib_unity_entities/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[113/639    1s] C_WebGL_wasm artifacts/lib_unity_zerojobs/peko-dotsruntimebuildconfiguration/5tjv/ZeroJobsNativeSupport.o
+[114/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_core/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[115/639    1s] C_WebGL_wasm artifacts/lib_unity_zerojobs/peko-dotsruntimebuildconfiguration/5tjv/PlayerConnectionNativeSupport.o
+[116/639    2s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/peko-dotsruntimebuildconfiguration/5gn5/BurstNativeSupport.o
+[117/639    0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[118/639    0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/peko-dotsruntimebuildconfiguration/8ux1/macOSWrapper.o
+[119/639    0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/peko-dotsruntimebuildconfiguration/8qmb/WindowsWrapper.o
+[120/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[121/639    3s] C_WebGL_wasm artifacts/lib_unity_tiny_io/peko-dotsruntimebuildconfiguration/x6nw/TinyIO.o
+[122/639    1s] C_WebGL_wasm artifacts/lib_unity_tiny_core/peko-dotsruntimebuildconfiguration/gq9d/Log.o
+[123/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/q98j/GCHandle.o
+[124/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/q98j/Marshal.o
+[125/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/14uz/Debugger.o
+[126/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/779w/Enum.o
+[127/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/779w/Type.o
+[128/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/779w/GC.o
+[129/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/aij8/il2cpp-virtual-remap.o
+[130/639    2s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/peko-dotsruntimebuildconfiguration/2ll2/BufferedCallbacks.o
+[131/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/779w/Environment.o
+[132/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/aij8/il2cpp-api.o
+[133/639    4s] C_WebGL_wasm artifacts/lib_unity_entities/peko-dotsruntimebuildconfiguration/6pj4/lz4.o
+[134/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/LastError.o
+[135/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/DebugMetadata.o
+[136/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/czx7/pch-cpp.o
+[137/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/Exception.o
+[138/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/Type.o
+[139/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/String.o
+[140/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/PlatformInvoke.o
+[141/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/Runtime.o
+[142/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/TypeUniverse.o
+[143/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/x1jt/ConsoleExtension.o
+[144/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/x1jt/Initialize.o
+[145/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/StackTrace.o
+[146/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/x1jt/Locale.o
+[147/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/44c1/Reflection.o
+[148/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/x1jt/TimeZoneInfo.o
+[149/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/x1jt/StackTrace.o
+[150/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/ak74/SocketBridge.o
+[151/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Error.o
+[152/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/Assert.o
+[153/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/COM.o
+[154/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/CrashHelpers.o
+[155/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/CpuInfo.o
+[156/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/CrashHelpers.o
+[157/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/ConditionVariable.o
+[158/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Event.o
+[159/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/Environment.o
+[160/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/Initialize.o
+[161/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/MarshalStringAlloc.o
+[162/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/Debug.o
+[163/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/Handle.o
+[164/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/SocketBridge.o
+[165/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/SocketImpl.o
+[166/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/File.o
+[167/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/Process.o
+[168/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/SystemCertificates.o
+[169/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/TimeZoneInfo.o
+[170/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Image.o
+[171/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/Automation.o
+[172/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/Debug.o
+[173/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/MemoryMappedFile.o
+[174/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/File.o
+[175/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/9wur/WindowsRuntime.o
+[176/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/Initialize.o
+[177/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/Lifecycle.o
+[178/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/Process.o
+[179/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/LibraryLoader.o
+[180/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/Environment.o
+[181/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/TimeZoneInfo.o
+[182/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/jjld/StackTrace.o
+[183/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/evib/Image.o
+[184/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/evib/Process.o
+[185/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/evib/SystemCertificates.o
+[186/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/ConditionVariableImpl.o
+[187/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Messages.o
+[188/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/CpuInfo.o
+[189/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Cryptography.o
+[190/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/CrashHelpers.o
+[191/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Mutex.o
+[192/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Path.o
+[193/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Directory.o
+[194/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Encoding.o
+[195/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Console.o
+[196/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/EventImpl.o
+[197/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/FileSystemWatcher.o
+[198/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Image.o
+[199/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/LastError.o
+[200/639   17s] C_WebGL_wasm artifacts/bgfx/peko-dotsruntimebuildconfiguration/mmih/amalgamated.o
+[201/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Environment.o
+[202/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Error.o
+[203/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/MarshalAlloc.o
+[204/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/MemoryMappedFile.o
+[205/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Memory.o
+[206/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/MutexImpl.o
+[207/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/NativeMethods.o
+[208/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/File.o
+In file included from C:/New Unity Project/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp_a51d/libil2cpp/os/Posix/File.cpp:28:
+C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Stevedore\emscripten-win\system\include\libc\sys\errno.h:1:2: warning: redirecting incorrect #include <sys/errno.h> to <errno.h> [-W#warnings]
+#warning redirecting incorrect #include <sys/errno.h> to <errno.h>
+ ^
+1 warning generated.
+[209/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/LibraryLoader.o
+[210/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Path.o
+[211/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Locale.o
+[212/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/PosixHelpers.o
+[213/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/PosixWaitObject.o
+[214/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Process.o
+[215/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/SemaphoreImpl.o
+[216/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/SocketImpl.o
+[217/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/SystemCertificates.o
+[218/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/StackTrace.o
+[219/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/ThreadImpl.o
+[220/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/TimeZone.o
+[221/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/1lz9/Time.o
+[222/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/ReaderWriterLock.o
+[223/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Socket.o
+[224/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/5ktd/ThreadImpl.o
+[225/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Assert.o
+[226/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/ConditionVariableImpl.o
+[227/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/COM.o
+[228/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Semaphore.o
+[229/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Console.o
+[230/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/CpuInfo.o
+[231/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/CrashHelpers.o
+[232/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/Thread.o
+[233/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Cryptography.o
+[234/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/hdg8/StackTrace.o
+[235/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Debug.o
+[236/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Directory.o
+[237/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Encoding.o
+[238/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/DllMain.o
+[239/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Environment.o
+[240/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/EventImpl.o
+[241/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/File.o
+[242/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/FileSystemWatcher.o
+[243/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Handle.o
+[244/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Image.o
+[245/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Initialize.o
+[246/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/LastError.o
+[247/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Locale.o
+[248/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/LibraryLoader.o
+[249/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/MarshalAlloc.o
+[250/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/MarshalStringAlloc.o
+[251/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Memory.o
+[252/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/MemoryMappedFile.o
+[253/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/MutexImpl.o
+[254/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/NativeMethods.o
+[255/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Path.o
+[256/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/SemaphoreImpl.o
+[257/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/StackTrace.o
+[258/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/SocketImpl.o
+[259/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/SynchronizationContext.o
+[260/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/SystemCertificates.o
+[261/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/ThreadImpl.o
+[262/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Time.o
+[263/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/TimeZone.o
+[264/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/WindowsHelpers.o
+[265/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/WindowsRuntime.o
+[266/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/dp5o/Process.o
+[267/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/BrokeredFileSystem.o
+[268/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Cryptography.o
+[269/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Environment.o
+[270/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/File.o
+[271/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Initialize.o
+[272/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Locale.o
+[273/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/MarshalAlloc.o
+[274/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Process.o
+[275/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Win32ApiSharedEmulation.o
+[276/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/cikd/Win32ApiWinRTEmulation.o
+[277/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/grj7/Win32ApiWindowsGamesEmulation.o
+[278/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/COM.o
+[279/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/ConditionVariable.o
+[280/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/CpuInfo.o
+[281/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Cryptography.o
+[282/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Debug.o
+[283/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Directory.o
+[284/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Error.o
+[285/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Event.o
+[286/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Allocator.o
+[287/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/File.o
+[288/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Console.o
+[289/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/CultureInfo.o
+[290/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Handle.o
+[291/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Locale.o
+[292/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/LibraryLoader.o
+[293/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Memory.o
+[294/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Environment.o
+[295/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/MemoryMappedFile.o
+[296/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Messages.o
+[297/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Mutex.o
+[298/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/NativeMethods.o
+[299/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Path.o
+[300/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Process.o
+[301/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Semaphore.o
+[302/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Socket.o
+[303/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Thread.o
+[304/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/SystemCertificates.o
+[305/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/TimeZone.o
+[306/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/ThreadLocalValue.o
+[307/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/Time.o
+[308/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/i92u/TimeZoneInfo.o
+[309/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/COMTests.o
+[310/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/ConditionVariableTests.o
+[311/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/ConsoleTests.o
+[312/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/CpuInfoTests.o
+[313/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/DebugTests.o
+[314/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/CryptographyTests.o
+[315/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/EnvironmentTests.o
+[316/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/DirectoryTests.o
+[317/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/ErrorTests.o
+[318/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/EventTests.o
+[319/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/FileTests.o
+[320/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/LibraryLoaderTests.o
+[321/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/LocaleTests.o
+[322/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/MainTestRunner.o
+[323/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/MemoryMappedFileTests.o
+[324/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/MemoryTests.o
+[325/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/MutexTests.o
+[326/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/MessagesTests.o
+[327/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/PathTests.o
+[328/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/NativeMethodsTests.o
+[329/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/ProcessTests.o
+[330/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/SemaphoreTests.o
+[331/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/SocketTests.o
+[332/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/ThreadLocalValueTests.o
+[333/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/ThreadTests.o
+[334/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/TimeTests.o
+[335/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/gqis/TimeZoneInfoTests.o
+[336/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l66f/WriteBarrier.o
+[337/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l66f/NullGC.o
+[338/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l66f/WriteBarrierValidation.o
+[339/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Il2CppHStringReference.o
+[340/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l66f/BoehmGC.o
+[341/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Logging.o
+[342/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/DirectoryUtils.o
+[343/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l66f/GarbageCollector.o
+[344/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l66f/GCHandle.o
+[345/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/MarshalingUtils.o
+[346/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/MemoryMappedFile.o
+[347/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Memory.o
+[348/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Environment.o
+[349/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Exception.o
+[350/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/olxa/BlobReader.o
+[351/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/olxa/Debugger.o
+[352/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/MemoryPool.o
+[353/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Output.o
+[354/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/PathUtils.o
+[355/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/olxa/NativeDelegateMethodCache.o
+[356/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/Runtime.o
+[357/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/mono-structs.o
+[358/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/olxa/VmStringUtils.o
+[359/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/kw61/StringUtils.o
+[360/639    0s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/uan6/il2cpp-codegen-common.o
+[361/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/l2ih/Math.o
+[362/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[363/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/peko-dotsruntimebuildconfiguration/0ryb/HTMLWrapper.o
+[364/639    0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/peko-dotsruntimebuildconfiguration/0ryb/SendMessageCallbackHandler.o
+[365/639    0s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/peko-dotsruntimebuildconfiguration/huh7/dummy.o
+[368/639    0s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/peko-dotsruntimebuildconfiguration/brjq/Time.o
+[373/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/olxa/NativeSymbol.o
+[400/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/uan6/il2cpp-codegen-il2cpp.o
+[408/639    1s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/uan6/il2cpp-codegen-tiny.o
+[412/639    2s] C_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/ncem/Interlocked.o
+[413/639    0s] Lib_WebGL_wasm artifacts/lib_unity_lowlevel/peko-dotsruntimebuildconfiguration/lib_unity_lowlevel.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[414/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/netstandard.dll
+[415/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Collections.LowLevel.ILSupport.dll
+[416/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/UnsafeUtility.dll (+pdb)
+[417/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/mscorlib.dll
+[418/639    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/z6vx/xxhash.o
+In file included from C:/New Unity Project/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp_a51d/external/xxHash/xxhash.c:1021:
+C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Stevedore\il2cpp_a51d\external\xxHash\xxh3.h:550:13: warning: loop not unrolled: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+static void XXH3_accumulate(U64* acc, const void* restrict data, const U32* restrict key, size_t nbStripes)
+            ^
+1 warning generated.
+[419/639    1s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/peko-dotsruntimebuildconfiguration/2rzt/HTMLWrapper.o
+[420/639    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_burst/peko-dotsruntimebuildconfiguration/lib_unity_tiny_burst.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[421/639    0s] Lib_WebGL_wasm artifacts/libil2cpptiny/peko-dotsruntimebuildconfiguration/libil2cpptiny.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[422/639    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_io/peko-dotsruntimebuildconfiguration/lib_unity_tiny_io.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[423/639    2s] Csc artifacts/Unity.LowLevel.dll/peko-dotsruntimebuildconfiguration/Unity.LowLevel.dll (+2 others)
+[424/639    0s] Csc artifacts/Unity.Tiny.Burst.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Burst.dll (+2 others)
+[425/639    0s] Csc artifacts/Unity.Tiny.IO.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.IO.dll (+2 others)
+[426/639    0s] Lib_WebGL_wasm artifacts/lib_unity_zerojobs/peko-dotsruntimebuildconfiguration/lib_unity_zerojobs.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[427/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.LowLevel.dll (+pdb)
+[428/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Burst.dll (+pdb)
+[429/639    0s] Lib_WebGL_wasm artifacts/lib_unity_entities/peko-dotsruntimebuildconfiguration/lib_unity_entities.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[430/639    0s] Lib_WebGL_wasm artifacts/lib_unity_platforms_common/peko-dotsruntimebuildconfiguration/lib_unity_platforms_common.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[431/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.IO.dll (+pdb)
+[432/639    0s] Csc artifacts/Unity.Burst.dll/peko-dotsruntimebuildconfiguration/Unity.Burst.dll (+2 others)
+[433/639    0s] Csc artifacts/Unity.ZeroJobs.dll/peko-dotsruntimebuildconfiguration/Unity.ZeroJobs.dll (+2 others)
+[434/639    0s] Lib_WebGL_wasm artifacts/lib_unity_platforms_runloop/peko-dotsruntimebuildconfiguration/lib_unity_platforms_runloop.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[435/639    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_core/peko-dotsruntimebuildconfiguration/lib_unity_tiny_core.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[436/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Burst.dll (+pdb)
+[437/639    0s] Csc artifacts/Unity.Platforms.Common.dll/peko-dotsruntimebuildconfiguration/Unity.Platforms.Common.dll (+2 others)
+[438/639    0s] Csc artifacts/Unity.Properties.dll/peko-dotsruntimebuildconfiguration/Unity.Properties.dll (+2 others)
+[439/639    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/peko-dotsruntimebuildconfiguration/lib_unity_tiny_image2d_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[440/639    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_web/peko-dotsruntimebuildconfiguration/lib_unity_tiny_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[441/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.ZeroJobs.dll (+pdb)
+[442/639    0s] Csc artifacts/Unity.Platforms.RunLoop.dll/peko-dotsruntimebuildconfiguration/Unity.Platforms.RunLoop.dll (+2 others)
+[443/639    0s] Csc artifacts/Unity.Properties.Reflection.dll/peko-dotsruntimebuildconfiguration/Unity.Properties.Reflection.dll (+2 others)
+[444/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Platforms.Common.dll (+pdb)
+[445/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Properties.dll (+pdb)
+[446/639    1s] Lib_WebGL_wasm artifacts/lib_unity_tiny_input_web/peko-dotsruntimebuildconfiguration/lib_unity_tiny_input_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[447/639    1s] Lib_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/peko-dotsruntimebuildconfiguration/lib_unity_tiny_rendering_native.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[448/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Platforms.RunLoop.dll (+pdb)
+[449/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Properties.Reflection.dll (+pdb)
+[450/639    3s] Csc artifacts/Unity.Mathematics.dll/peko-dotsruntimebuildconfiguration/Unity.Mathematics.dll (+2 others)
+[451/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Mathematics.dll (+pdb)
+[452/639    1s] Csc artifacts/Unity.Collections.dll/peko-dotsruntimebuildconfiguration/Unity.Collections.dll (+2 others)
+[453/639    0s] Csc artifacts/Unity.Jobs.dll/peko-dotsruntimebuildconfiguration/Unity.Jobs.dll (+2 others)
+[454/639    0s] Csc artifacts/Unity.Mathematics.Extensions.dll/peko-dotsruntimebuildconfiguration/Unity.Mathematics.Extensions.dll (+2 others)
+[455/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Collections.dll (+pdb)
+[456/639    0s] Csc artifacts/Unity.Serialization.dll/peko-dotsruntimebuildconfiguration/Unity.Serialization.dll (+2 others)
+[457/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Jobs.dll (+pdb)
+[458/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Mathematics.Extensions.dll (+pdb)
+[459/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Serialization.dll (+pdb)
+[460/639    1s] Csc artifacts/Unity.Entities.dll/peko-dotsruntimebuildconfiguration/Unity.Entities.dll (+2 others)
+[461/639    0s] Csc artifacts/Unity.Entities.Runtime.dll/peko-dotsruntimebuildconfiguration/Unity.Entities.Runtime.dll (+2 others)
+[462/639    0s] Csc artifacts/Unity.Tiny.Core.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Core.dll (+2 others)
+[463/639    0s] Csc artifacts/Unity.Transforms.dll/peko-dotsruntimebuildconfiguration/Unity.Transforms.dll (+2 others)
+[464/639    0s] Csc artifacts/Unity.Tiny.Image2D.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Image2D.dll (+2 others)
+[465/639    0s] Csc artifacts/Unity.Tiny.Web.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Web.dll (+2 others)
+[466/639    0s] Csc artifacts/Unity.Scenes.dll/peko-dotsruntimebuildconfiguration/Unity.Scenes.dll (+2 others)
+[467/639    0s] Csc artifacts/Unity.Tiny.Input.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Input.dll (+2 others)
+[468/639    0s] Csc artifacts/Unity.Tiny.Image2D.Web.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Image2D.Web.dll (+2 others)
+[469/639    0s] Csc artifacts/Unity.2D.Entities.Physics.dll/peko-dotsruntimebuildconfiguration/Unity.2D.Entities.Physics.dll (+2 others)
+[470/639    0s] Csc artifacts/Unity.Tiny.Rendering.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Rendering.dll (+2 others)
+[471/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Entities.Runtime.dll (+pdb)
+[472/639    0s] Csc artifacts/Unity.Tiny.UnityInstance.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.UnityInstance.dll (+2 others)
+[473/639    2s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Core.dll (+pdb)
+[474/639    0s] Csc artifacts/Unity.Tiny.Input.Web.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Input.Web.dll (+2 others)
+[475/639    2s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Transforms.dll (+pdb)
+[476/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Image2D.dll (+pdb)
+[477/639    3s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Entities.dll (+pdb)
+[478/639    0s] Csc artifacts/Unity.Tiny.2D.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.2D.dll (+2 others)
+[479/639    2s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Web.dll (+pdb)
+[480/639    0s] Csc artifacts/Unity.Runtime.EntryPoint.exe/peko-dotsruntimebuildconfiguration/Unity.Runtime.EntryPoint.exe (+2 others)
+[481/639    1s] Csc artifacts/Unity.Tiny.Rendering.Native.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.Rendering.Native.dll (+2 others)
+[482/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Image2D.Web.dll (+pdb)
+[483/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Input.dll (+pdb)
+[484/639    2s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Scenes.dll (+pdb)
+[485/639    0s] Csc artifacts/Unity.Tiny.2D.Native.dll/peko-dotsruntimebuildconfiguration/Unity.Tiny.2D.Native.dll (+2 others)
+[486/639    0s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Runtime.EntryPoint.exe (+pdb)
+[487/639    2s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.2D.Entities.Physics.dll (+pdb)
+[488/639    0s] Csc artifacts/Peko.dll/peko-dotsruntimebuildconfiguration/Peko.dll (+2 others)
+[489/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.UnityInstance.dll (+pdb)
+[490/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Input.Web.dll (+pdb)
+[491/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.2D.dll (+pdb)
+[492/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Peko.dll (+pdb)
+[493/639    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.2D.Native.dll (+pdb)
+[494/639    3s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Rendering.Native.dll (+pdb)
+[495/639    4s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Rendering.dll (+pdb)
+[496/639    1s] TypeRegGen artifacts/Peko/peko-dotsruntimebuildconfiguration/post_typereg/Peko.dll (+68 others)
+[BUSY       6s] Burst artifacts/Peko/peko-dotsruntimebuildconfiguration_bursted/Peko.dll (+68 others)
+[BUSY      16s] Burst artifacts/Peko/peko-dotsruntimebuildconfiguration_bursted/Peko.dll (+68 others)
+[497/639   18s] Burst artifacts/Peko/peko-dotsruntimebuildconfiguration_bursted/Peko.dll (+68 others)
+Compiled 1 library, containing 236 methods, in 18695ms using 10 threads: C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_0.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_2.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_1.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3_merged.wasm
+[           0s] Destroying Roslyn Shared Compiler Server
+*** Bee requires additional run (78.01 seconds - 0:01:18), 368 items updated, 639 evaluated
+*** buildprogram build success (0.11 seconds), 0 items updated, 13 evaluated
+[       4s] Executed build program. Created build graph with 763 nodes.
+[           0s] Freezing tundra_peko-dotsruntimebuildconfiguration_w9y.dag.json into .dag (Timestamp of .json > .dag)
+[           0s] Delete 13 artifact files that are no longer in use. (like artifacts\Stevedore-ExternalUnpack\artifacts_Stevedore_emscripten-win)
+[ 46/634    0s] WriteResponseFile artifacts/rsp/9402325726472176897.rsp
+[493/634    4s] UnityLinker artifacts/Peko/peko-dotsruntimebuildconfiguration_stripped/Peko.dll (+68 others)
+[BUSY       6s] Il2Cpp artifacts/Peko/peko-dotsruntimebuildconfiguration_stripped/il2cpp-src
+[494/634    7s] Il2Cpp artifacts/Peko/peko-dotsruntimebuildconfiguration_stripped/il2cpp-src
+*** Bee requires additional run (13.57 seconds), 3 items updated, 634 evaluated
+*** buildprogram build success (0.10 seconds), 0 items updated, 13 evaluated
+[       5s] Executed build program. Created build graph with 740 nodes.
+[           0s] Freezing tundra_peko-dotsruntimebuildconfiguration_w9y.dag.json into .dag (Timestamp of .json > .dag)
+[           0s] Delete 27 artifact files that are no longer in use. (like artifacts\Peko\peko-dotsruntimebuildconfiguration\8d9z\Il2CppGenericComDefinitions15.o)
+[ 50/611    0s] WriteResponseFile artifacts/rsp/9402325726472176897.rsp
+[495/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/driver.o
+[496/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods.o
+[497/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods1.o
+[498/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods3.o
+[499/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods2.o
+[500/611    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods5.o
+[501/611    9s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods6.o
+[502/611    9s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods4.o
+[503/611    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods8.o
+[504/611    3s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics13.o
+[505/611   11s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods7.o
+[506/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics10.o
+[507/611    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics12.o
+[508/611    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics.o
+[509/611    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics3.o
+[510/611    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics4.o
+[511/611    9s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics11.o
+[512/611   11s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics1.o
+[513/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics_StaticConstructors.o
+[514/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions.o
+[515/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions1.o
+[516/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics5.o
+[517/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions10.o
+[518/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics6.o
+[519/611   10s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics2.o
+[520/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics7.o
+[521/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions11.o
+[522/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions12.o
+[523/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions13.o
+[524/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions2.o
+[525/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions3.o
+[526/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions4.o
+[527/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions6.o
+[528/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics8.o
+[529/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions7.o
+[530/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions5.o
+[531/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics9.o
+[532/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions8.o
+[533/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Il2CppGenericComDefinitions9.o
+[534/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/ModuleInitializers.o
+[535/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/mscorlib_StaticConstructors.o
+[536/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Peko_StaticConstructors.o
+[537/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/netstandard.o
+[538/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/StaticConstructors.o
+[539/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/StaticInitialization.o
+[540/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/StringLiterals.o
+[541/611    3s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Peko.o
+[542/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/TinyMethods.o
+[543/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.2D.Entities.Physics_StaticConstructors.o
+[544/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Burst.o
+[545/611    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/mscorlib.o
+[546/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Collections.LowLevel.ILSupport.o
+[547/611    3s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/TinyTypes.o
+[548/611    3s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.2D.Entities.Physics1.o
+[549/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Collections_StaticConstructors.o
+[550/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities.Runtime.o
+[551/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities.Runtime_StaticConstructors.o
+[552/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities_StaticConstructors.o
+[553/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Jobs.o
+[554/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.2D.Entities.Physics.o
+[555/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.LowLevel.o
+[556/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Mathematics.Extensions.o
+[557/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Collections.o
+[558/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities.o
+[559/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Mathematics_StaticConstructors.o
+[560/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Platforms.Common.o
+[561/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities1.o
+[562/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities2.o
+[563/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Platforms.RunLoop.o
+[564/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Properties.o
+[565/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities3.o
+[566/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Properties.Reflection.o
+[567/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Runtime.EntryPoint_StaticConstructors.o
+[568/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Runtime.EntryPoint.o
+[569/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Scenes_StaticConstructors.o
+[570/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Serialization.o
+[571/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Mathematics.o
+[572/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.2D.o
+[573/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.2D.Native_StaticConstructors.o
+[574/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.2D_StaticConstructors.o
+[575/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Burst.o
+[576/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Core_StaticConstructors.o
+[577/611    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Scenes.o
+[578/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Core.o
+[579/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Image2D.Web_StaticConstructors.o
+[580/611    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.2D.Native.o
+[581/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Image2D.o
+[582/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Image2D_StaticConstructors.o
+[583/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Image2D.Web.o
+[584/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Input.Web.o
+[585/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Input.Web_StaticConstructors.o
+[586/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Input.o
+[587/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Input_StaticConstructors.o
+[588/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.IO.o
+[589/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native_StaticConstructors.o
+[590/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering_StaticConstructors.o
+[591/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.UnityInstance.o
+[592/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.UnityInstance_StaticConstructors.o
+[593/611    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.o
+[594/611    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native2.o
+[595/611    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native.o
+[596/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Web.o
+[597/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Web_StaticConstructors.o
+[598/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Transforms_StaticConstructors.o
+[599/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering1.o
+[600/611    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.ZeroJobs.o
+[601/611    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native1.o
+[602/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.ZeroJobs_StaticConstructors.o
+[603/611    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering2.o
+[604/611    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/UnsafeUtility.o
+[605/611    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Transforms.o
+[BUSY       6s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      26s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      36s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      46s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      56s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      66s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      76s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      86s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY      97s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY     107s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY     117s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[BUSY     127s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+[606/611   131s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
+emcc:WARNING: --llvm-lto ignored when using llvm backend
+cache:INFO: generating system library: libfetch.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libfetch.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libgl-webgl2.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libgl-webgl2.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libcompiler_rt.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libcompiler_rt.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc-wasm.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc-wasm.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc++-noexcept.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc++-noexcept.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc++abi-noexcept.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc++abi-noexcept.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libemmalloc-noerrno-64bit.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libemmalloc-noerrno-64bit.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libpthread_stub.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libpthread_stub.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc_rt_wasm.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc_rt_wasm.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libsockets.a... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libsockets.a" for subsequent builds)
+cache:INFO:  - ok
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libfetch.aemscripten_fetch.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libgl-webgl2.awebgl1.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libgl-webgl2.awebgl2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__errno_location.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afcntl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asyscall_ret.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afreelocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ac_locale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alibc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alocale_map.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anewlocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asetlocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__mo_lookup.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acosh.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aexpm1.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amodf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asinh.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atanh.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__expo2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ammap.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amunmap.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apoll.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.achmod.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aprocfdname.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afstat.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alstat.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amkdir.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astat.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afclose.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afeof.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aferror.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afflush.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afseek.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aftell.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aofl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aremove.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arename.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asnprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astderr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astdout.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aemscripten_pthread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcrtomb.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awctomb.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afrexp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avfprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisspace.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ashgetc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ainternal.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambrtowc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambsinit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aintscan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acopysignl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ascalbnl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afabs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afloatscan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avfscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avsnprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aofl_add.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__fdopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__fmodeflags.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_close.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_read.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_seek.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_write.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_exit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__toread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__uflow.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aatoi.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.absearch.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrtod.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrtol.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amemchr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amemcmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrchr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrchrnul.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrcmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astpcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrdup.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__lctrans.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrerror.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrerror_r.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrlcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrncmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astpncpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrncpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrspn.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aaccess.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.achdir.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aclose.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afsync.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aftruncate.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.agetcwd.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisatty.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alseek.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apipe.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apwrite.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aunlink.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awrite.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.agetpagesize.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__environ.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.agetenv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asched_yield.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aextras.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awasi-helpers.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__cos.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afloor.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2_large.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__sin.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.acos.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asin.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__tan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.atan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asqrt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aacos.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aasin.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aatan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aatan2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aexp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.alog.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.apow.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aalgorithm.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.ahash.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aexception.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aios.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisxdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__string_read.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avsscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acatopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acatgets.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acatclose.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrcoll.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrxfrm.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcscmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcscoll.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcslen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsxfrm.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_b_loc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_tolower_loc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_toupper_loc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aislower.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atoupper.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisupper.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atolower.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcschr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswspace.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswprint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswcntrl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswalpha.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atowctrans.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswupper.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswlower.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswpunct.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswxdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisblank.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswblank.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.auselocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avasprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.abtowc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awctob.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsrtombs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsnrtombs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambsrtowcs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambsnrtowcs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambtowc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_get_mb_cur_max.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambrlen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alocaleconv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemset.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrtol_l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.alocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.amemory.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.acondition_variable_destructor.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.acondition_variable.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.amutex.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.amutex_destructor.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.anew.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemmove.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemchr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemcmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcstol.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcstod.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afwide.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsspn.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afputwc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avfwprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avswprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aswprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.acharconv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.astring.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.astdexcept.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.asystem_error.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.afuture.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.athread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.avector.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.aabort_message.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_guard.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_default_handlers.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_handlers.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_virtual.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.astdlib_exception.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.astdlib_stdexcept.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.astdlib_typeinfo.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.aprivate_typeinfo.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_noexception.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libemmalloc-noerrno-64bit.aemmalloc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libemmalloc-noerrno-64bit.asbrk.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libpthread_stub.alibrary_pthread_stub.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asocket.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.abind.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.aconnect.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.alisten.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.aaccept.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.agetsockname.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asend.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.arecv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asendto.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.arecvfrom.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.agetsockopt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asetsockopt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ahtons.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ahtonl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.antohs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aint128_builtins.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afenv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afesetround.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afmaf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anextafter.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acopysign.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ailogb.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afma.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afrexpl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anextafterl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ailogbl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afmal.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asqrtf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asqrtl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acbrtf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acbrt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acbrtl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.alogf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.alogl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alog2l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alog10l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ascalbnf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aexpf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aexpl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aexp2l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__sindf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__cosdf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2f.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asinf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__sinl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__cosl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asinl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.acosf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.acosl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afabsf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.apowf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.apowl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aceilf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aceil.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aceill.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atruncf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atrunc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atruncl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anearbyintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anearbyint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anearbyintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aroundl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afloorf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.afloorl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acopysignf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alroundf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alround.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alroundl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allroundf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allround.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allroundl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alrintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alrint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alrintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allrintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allrint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allrintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekposENS_4fposI11__mbstate_tEEj
+>>> defined as () -> void in C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
+>>> defined as (i32, i32, i32, i32) -> void in lto.tmp
+wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekoffExNS_8ios_base7seekdirEj
+>>> defined as () -> void in C:\\New Unity Project\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
+>>> defined as (i32, i32, i64, i32, i32) -> void in lto.tmp
+cache:INFO: generating system asset: generated_struct_info.json... (this will be cached in "C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\generated_struct_info.json" for subsequent builds)
+cache:INFO:  - ok
+[607/611    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Peko.wasm
+[608/611    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Peko.js
+[609/611    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Peko.html
+*** Bee build success (188.49 seconds - 0:03:08), 116 items updated, 611 evaluated
