@@ -44,6 +44,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x065c88ce7fdd96ef -     458391682574817007 - UnityEngine.Rendering.Universal.SplitToning
 0x0697184c6949d640 -     474875002173904448 - Unity.U2D.Entities.SpriteAtlasTexture
 0x06b56de960f16fdb -     483413384133439451 - UnityEditor.PluginImporter
+0x06cc6eba28f1961c -     489888205306435100 - Peko.Authoring.PlayerEndAnimComponent
 0x071e1ccc385599a9 -     512879071010855337 - UnityEngine.Rendering.GraphicsSettings
 0x07586625311774f3 -     529285266139477235 - Unity.Rendering.ActiveLODGroupMask
 0x079eae09e4f1a85c -     549067562104760412 - TMPro.TMP_InputField
@@ -51,6 +52,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x07f0b8e97cbc5597 -     572160465635661207 - UnityEditor.NavMeshEditorWindow
 0x08075c3b96194ce2 -     578532488131464418 - UnityEditor.Timeline.ClipInspector
 0x080a8bcb7bba8dcc -     579429208140975564 - UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow
+0x0812e20f25135200 -     581775856558625280 - Peko.Authoring.MessageComponent
 0x0837156786ba3611 -     591965410408674833 - UnityEditor.CurvePresetLibrary
 0x086853c1218dbfa9 -     605826238838063017 - UnityEditor.Presets.Preset
 0x087e266c2507a180 -     611968845288546688 - UnityEditor.SpringJoint2DEditor
@@ -175,6 +177,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x1e48bfa64e53fac1 -    2182204740460608193 - UnityEditor.Experimental.Rendering.Universal.ShadowCaster2DEditor+ShadowCaster2DShadowCasterShapeTool
 0x1e4f70101bb15909 -    2184087558784375049 - Unity.Tiny.Particles.ParticleMaterial
 0x1e589cb571de9f24 -    2186669922201804580 - UnityEditor.AppStatusBar
+0x1e9c01062accc599 -    2205639043504194969 - Peko.ContinueMessage
 0x1ead66103f746b6c -    2210535212078885740 - UnityEditor.IMGUI.Controls.AdvancedDropdownWindow
 0x1ecc8e99f6c2cf6c -    2219305508307914604 - Unity.Rendering.Authoring.MaterialColor
 0x1ee5adf2ec308b90 -    2226376849660873616 - UnityEditor.Collaboration.CollabCannotPublishDialog
@@ -198,6 +201,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x22871b185832507b -    2487987110518345851 - Unity.Rendering.CullingStatsDrawer
 0x2309b3ff006cb31f -    2524746973923029791 - Unity.Transforms.RotationEulerYZX
 0x23282cecbed16c28 -    2533324185721203752 - Unity.Entities.CodeGen.Tests.TestTypes.TranslationInAnotherAssembly
+0x236397d0db345b88 -    2550048737308466056 - Peko.MessageTag
 0x23702ff2353d03b2 -    2553593706040853426 - UnityEditor.LightmapSnapshot
 0x2393eed9a3b6a407 -    2563655231425913863 - UnityEditor.LightingEditor
 0x239646bc26ff9dbc -    2564314811756158396 - UnityEditor.ModelImporterEditor
@@ -237,6 +241,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x2ab1fc556c26db33 -    3076517464287664947 - UnityEditor.ExportRawHeightmap
 0x2b4a005a02a8a840 -    3119306078499153984 - Unity.Tiny.Rendering.LitMeshRenderer
 0x2b4c37edf9cb9261 -    3119930137098556001 - Unity.Tiny.Rendering.RenderPassAutoSizeToNode
+0x2bbb3b2c33a90b35 -    3151177425307110197 - Peko.Counter
 0x2bc752e36145e48d -    3154581200539346061 - UnityEngine.BuoyancyEffector2D
 0x2be27d74799f0275 -    3162227827577651829 - TreeEditor.TreeData
 0x2bfb07e0f63b9a7e -    3169135425570445950 - Unity.Tiny.Text.TextRendererNeedsUpdate
@@ -252,6 +257,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x2d6cc3fd7ea22e78 -    3273206522710208120 - UnityEditor.TestTools.TestRunner.Api.CallbacksDelegatorListener
 0x2db13d695ef62200 -    3292480325358592512 - UnityEditor.TooltipView
 0x2dcf5a861b00a714 -    3300956583911008020 - UnityEngine.Animations.AimConstraint
+0x2e1506d63f480fff -    3320567817510064127 - Peko.Authoring.CounterComponent
 0x2e605f5f80632f7a -    3341775787289423738 - UnityEngine.UI.ToggleGroup
 0x2eab0229984dcb11 -    3362783924434357009 - TMPro.TMP_Settings
 0x2eebfbd94c738588 -    3381072855980803464 - Unity.Transforms.LocalToWorldProxy
@@ -389,7 +395,6 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x47bfac295b870623 -    5170040190873830947 - UnityEditor.CircleCollider2DEditor
 0x4829b103ecdb968e -    5199881875192780430 - UnityEditor.AddComponent.AddComponentWindow
 0x48532b3d5d7e8ac2 -    5211556736359369410 - UnityEditor.Presets.PresetManager
-0x4860e78772c61fc0 -    5215422937427222464 - Peko.CarrotSpawner
 0x48a069963718a466 -    5233298860894889062 - UnityEngine.Mesh
 0x48df663c39b4d00d -    5251028099389509645 - UnityEditor.DirectorEditor
 0x4924c3019ba993f9 -    5270551875604288505 - DebugStream+DrawComponent
@@ -503,6 +508,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x59875fca5d7bcbeb -    6451230313987951595 - Unity.Tiny.Text.Authoring.TextRenderer
 0x598dd4fd24a4d3ae -    6453048024798385070 - UnityEngine.AudioSource
 0x59a1d5f3fca225e3 -    6458678584518256099 - UnityEngine.Animations.LookAtConstraint
+0x59d79b355fff94c0 -    6473813642914534592 - Peko.NumberTag
 0x59e21d78f80d871b -    6476771619507111707 - UnityEditor.VFXManager
 0x59ee9464a62f4f78 -    6480280073838481272 - UnityEngine.TerrainCollider
 0x59f523a663ccd8d2 -    6482126436215609554 - Unity.Tiny.Rendering.RenderGraphConfig
@@ -524,6 +530,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x5c6cfc2050793f95 -    6659975164693397397 - UnityEditor.SearchableEditorWindow
 0x5c82185d2174083a -    6665917186734032954 - Unity.Tiny.Rendering.OriginalVertexBoneIndex
 0x5c9782eabdbb593c -    6671945317689809212 - UnityEngine.SpeedTreeWindAsset
+0x5ceed7c0d5355db2 -    6696526919157243314 - Peko.StartMessage
 0x5d0e9981bddf0a49 -    6705465677716589129 - UnityEngine.Animations.RotationConstraint
 0x5d197eab093ce648 -    6708532393004557896 - UnityEngine.Sprite
 0x5d65c0b8b94edd6d -    6729997117790543213 - Unity.Entities.Editor.EntityDebugger
@@ -645,6 +652,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x6e62c03e9232d5d1 -    7954131266863027665 - Unity.Tiny.Rendering.SimpleMaterial
 0x6e8673b9119cbc12 -    7964180229752929298 - UnityEngine.UI.GridLayoutGroup
 0x6eb58a29466bfe1d -    7977434224836476445 - UnityEditor.LightingExplorerWindow
+0x6edef96935be821b -    7989097019270398491 - Peko.DefaultMessage
 0x6efe5c5056528d33 -    7997931488371969331 - UnityEditor.UI.ScrollbarEditor
 0x6f02124d960c5b29 -    7998976012602596137 - Unity.Entities.Entity
 0x6f168c8b37eb3128 -    8004739917264138536 - Unity.Tiny.Rendering.BlendShapeWeight
@@ -706,6 +714,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x78cfd32ae70de29d -    8705408785948992157 - UnityEditor.DoubleCurvePresetLibraryEditor
 0x78db7a00fbc1822b -    8708688449093337643 - Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousM
 0x78e355d8d3f5a24c -    8710900494022058572 - UnityEngine.Rendering.UI.DebugUIHandlerPanel
+0x78f57e4700e882a4 -    8716011497268478628 - Peko.PlayerEndAnimTag
 0x790216f254bb7812 -    8719557058602170386 - UnityEditor.AvatarPreview+ObjectSelectorOperation
 0x790ce48bac4adf4d -    8722597866851983181 - UnityEngine.PointEffector2D
 0x79152cfb239f08be -    8724929310246242494 - UnityEditor.NoneTool
@@ -841,6 +850,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x8f069bbe1ebdf636 -   10306096038145816118 - UnityEditor.HingeJointEditor
 0x8f073881f24373b9 -   10306268403027112889 - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
 0x8f09a4d5bcc772c4 -   10306950460116267716 - Unity.Scenes.ResolvedSceneHash
+0x8f97dbb6a4b0def3 -   10346980246400589555 - Peko.Authoring.NumbersComponent
 0x8f9a5ae6f3eda112 -   10347683041818550546 - UnityEditorInternal.State
 0x8fe7f5d8b5d56f97 -   10369526978156261271 - Unity.Tiny.Particles.EmitterInitialNonUniformRotation
 0x9033833f16633cc8 -   10390793072255646920 - Unity.Entities.BlobAssetOwner
@@ -879,6 +889,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x9432895577646556 -   10678748666617161046 - UnityEngine.Animator
 0x945397ef83b96e83 -   10688053395643264643 - UnityEditor.AudioClipInspector
 0x947f3048bba6c2fb -   10700324328599634683 - Unity.Scenes.Editor.SubSceneImporter
+0x94808d0bcfa0dcd7 -   10700707796499881175 - Peko.RunSpeed
 0x949522f663af28f6 -   10706502130772945142 - TMPro.EditorUtilities.TMP_SubMesh_Editor
 0x94a0fa0de7ae8b14 -   10709834851515534100 - UnityEngine.AI.NavMeshAgent
 0x94b53405b9707b4d -   10715528087588600653 - Unity.Tiny.Rendering.DemoSpinner
@@ -967,6 +978,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xa302bf17e02d6f0e -   11746160887401901838 - UnityEditor.AssemblyDefinitionImporterInspector
 0xa3166fc622f83e38 -   11751703174450789944 - UnityEngine.OcclusionPortal
 0xa37df2a45bc28a0d -   11780838987999119885 - Unity.Entities.CodeGen.Tests.TestTypes.BoidInAnotherAssembly
+0xa3c1754b47bd27c4 -   11799841464873985988 - Peko.Authoring.TimerComponent
 0xa3dd819189c02eac -   11807736260116623020 - Unity.U2D.Entities.SpriteRenderer
 0xa418ee641937097c -   11824462935348414844 - Unity.U2D.Entities.Physics.Authoring.PhysicsSettingsAuthoring
 0xa42de7cc0763e5be -   11830366659655493054 - Unity.Transforms.Translation
@@ -1054,6 +1066,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xb2e1733257340486 -   12889710268559656070 - Unity.Scenes.ResolveSceneReferenceSystem+AssetDependencyTrackerState
 0xb30d115a3cc70efe -   12901987586750746366 - UnityEngine.MeshFilter
 0xb31f97c123dbd8e9 -   12907201912853223657 - UnityEditor.Rendering.Universal.UniversalRenderPipelineAssetEditor
+0xb342b08ef50b83ec -   12917080809295021036 - Peko.Timer
 0xb34b8a0a8af56b30 -   12919571733928045360 - MaterialOverride
 0xb3b55462fc660748 -   12949349087691802440 - UnityEditor.ProjectWindowCallback.DoCreateSpritePolygon
 0xb3ff106592c2d159 -   12970103480290300249 - Unity.Entities.Editor.EntitySelectionProxyEditor
@@ -1274,6 +1287,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xdb17c8345e570d10 -   15787307146017180944 - UnityEditor.Rendering.FilterWindow
 0xdb25c4cd40a1e121 -   15791244054276202785 - Peko.Authoring.BackgroundComponent
 0xdb292c2c62628b48 -   15792202137492163400 - Unity.Tiny.Sprite
+0xdb3aa8718b62fc38 -   15797123848578726968 - Peko.CarrotSpawner
 0xdb52ae5acfa66306 -   15803885747450569478 - Peko.CarrotTag
 0xdb6be9d722c07a79 -   15810988027024538233 - Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousMI_Tag
 0xdb817dbacb62802c -   15817061607531511852 - UnityEditor.UnityConnectSettings
@@ -1348,6 +1362,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xe64a9a198ef88d64 -   16594245211563527524 - UnityEditor.Graphs.AnimationStateMachine.AddStateMachineBehaviourComponentWindow
 0xe64b65c349b58dd4 -   16594469141406387668 - UnityEditor.ModelInspector
 0xe6e5ac7974744b89 -   16637894036034964361 - UnityEditor.SpriteRendererEditor
+0xe7a3a79b50726b8b -   16691368929476635531 - Peko.NumberPlace
 0xe7a8ef452f3313ae -   16692855099272401838 - UnityEditor.Graphs.AnimationBlendTree.Node
 0xe7a992311b4acbd5 -   16693034233434393557 - Unity.Tiny.Particles.EmitterCircleSource
 0xe7ac56b433568ded -   16693813250710998509 - UnityEditor.UI.ButtonEditor
@@ -1365,6 +1380,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xe96f6c9ff2e942c4 -   16820782567483065028 - UnityEditor.UI.DropdownEditor
 0xe99df9c60115de5d -   16833885610997833309 - UnityEngine.Rendering.CameraSwitcher
 0xe9ade225f2aa5744 -   16838363234421069636 - UnityEditor.GraphicsSettingsWindow+VideoShadersEditor
+0xe9f7f2cf83786eb9 -   16859210703162601145 - Peko.NumberSpriteBuffer
 0xea04aee0a879d965 -   16862795184704444773 - UnityEditor.Experimental.GraphView.GraphViewMinimapWindow
 0xea0e1b6e838b47ad -   16865447816016381869 - UnityEngine.WebCamTexture
 0xea1c3e1da8902b6f -   16869426601326029679 - Unity.Physics.PhysicsMassOverride
@@ -1533,6 +1549,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x065c88ce7fdd96ef -     458391682574817007 - UnityEngine.Rendering.Universal.SplitToning
 0x0697184c6949d640 -     474875002173904448 - Unity.U2D.Entities.SpriteAtlasTexture
 0x06b56de960f16fdb -     483413384133439451 - UnityEditor.PluginImporter
+0x06cc6eba28f1961c -     489888205306435100 - Peko.Authoring.PlayerEndAnimComponent
 0x071e1ccc385599a9 -     512879071010855337 - UnityEngine.Rendering.GraphicsSettings
 0x07586625311774f3 -     529285266139477235 - Unity.Rendering.ActiveLODGroupMask
 0x079eae09e4f1a85c -     549067562104760412 - TMPro.TMP_InputField
@@ -1540,6 +1557,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x07f0b8e97cbc5597 -     572160465635661207 - UnityEditor.NavMeshEditorWindow
 0x08075c3b96194ce2 -     578532488131464418 - UnityEditor.Timeline.ClipInspector
 0x080a8bcb7bba8dcc -     579429208140975564 - UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow
+0x0812e20f25135200 -     581775856558625280 - Peko.Authoring.MessageComponent
 0x0837156786ba3611 -     591965410408674833 - UnityEditor.CurvePresetLibrary
 0x086853c1218dbfa9 -     605826238838063017 - UnityEditor.Presets.Preset
 0x087e266c2507a180 -     611968845288546688 - UnityEditor.SpringJoint2DEditor
@@ -1664,6 +1682,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x1e48bfa64e53fac1 -    2182204740460608193 - UnityEditor.Experimental.Rendering.Universal.ShadowCaster2DEditor+ShadowCaster2DShadowCasterShapeTool
 0x1e4f70101bb15909 -    2184087558784375049 - Unity.Tiny.Particles.ParticleMaterial
 0x1e589cb571de9f24 -    2186669922201804580 - UnityEditor.AppStatusBar
+0x1e9c01062accc599 -    2205639043504194969 - Peko.ContinueMessage
 0x1ead66103f746b6c -    2210535212078885740 - UnityEditor.IMGUI.Controls.AdvancedDropdownWindow
 0x1ecc8e99f6c2cf6c -    2219305508307914604 - Unity.Rendering.Authoring.MaterialColor
 0x1ee5adf2ec308b90 -    2226376849660873616 - UnityEditor.Collaboration.CollabCannotPublishDialog
@@ -1687,6 +1706,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x22871b185832507b -    2487987110518345851 - Unity.Rendering.CullingStatsDrawer
 0x2309b3ff006cb31f -    2524746973923029791 - Unity.Transforms.RotationEulerYZX
 0x23282cecbed16c28 -    2533324185721203752 - Unity.Entities.CodeGen.Tests.TestTypes.TranslationInAnotherAssembly
+0x236397d0db345b88 -    2550048737308466056 - Peko.MessageTag
 0x23702ff2353d03b2 -    2553593706040853426 - UnityEditor.LightmapSnapshot
 0x2393eed9a3b6a407 -    2563655231425913863 - UnityEditor.LightingEditor
 0x239646bc26ff9dbc -    2564314811756158396 - UnityEditor.ModelImporterEditor
@@ -1726,6 +1746,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x2ab1fc556c26db33 -    3076517464287664947 - UnityEditor.ExportRawHeightmap
 0x2b4a005a02a8a840 -    3119306078499153984 - Unity.Tiny.Rendering.LitMeshRenderer
 0x2b4c37edf9cb9261 -    3119930137098556001 - Unity.Tiny.Rendering.RenderPassAutoSizeToNode
+0x2bbb3b2c33a90b35 -    3151177425307110197 - Peko.Counter
 0x2bc752e36145e48d -    3154581200539346061 - UnityEngine.BuoyancyEffector2D
 0x2be27d74799f0275 -    3162227827577651829 - TreeEditor.TreeData
 0x2bfb07e0f63b9a7e -    3169135425570445950 - Unity.Tiny.Text.TextRendererNeedsUpdate
@@ -1741,6 +1762,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x2d6cc3fd7ea22e78 -    3273206522710208120 - UnityEditor.TestTools.TestRunner.Api.CallbacksDelegatorListener
 0x2db13d695ef62200 -    3292480325358592512 - UnityEditor.TooltipView
 0x2dcf5a861b00a714 -    3300956583911008020 - UnityEngine.Animations.AimConstraint
+0x2e1506d63f480fff -    3320567817510064127 - Peko.Authoring.CounterComponent
 0x2e605f5f80632f7a -    3341775787289423738 - UnityEngine.UI.ToggleGroup
 0x2eab0229984dcb11 -    3362783924434357009 - TMPro.TMP_Settings
 0x2eebfbd94c738588 -    3381072855980803464 - Unity.Transforms.LocalToWorldProxy
@@ -1878,7 +1900,6 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x47bfac295b870623 -    5170040190873830947 - UnityEditor.CircleCollider2DEditor
 0x4829b103ecdb968e -    5199881875192780430 - UnityEditor.AddComponent.AddComponentWindow
 0x48532b3d5d7e8ac2 -    5211556736359369410 - UnityEditor.Presets.PresetManager
-0x4860e78772c61fc0 -    5215422937427222464 - Peko.CarrotSpawner
 0x48a069963718a466 -    5233298860894889062 - UnityEngine.Mesh
 0x48df663c39b4d00d -    5251028099389509645 - UnityEditor.DirectorEditor
 0x4924c3019ba993f9 -    5270551875604288505 - DebugStream+DrawComponent
@@ -1992,6 +2013,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x59875fca5d7bcbeb -    6451230313987951595 - Unity.Tiny.Text.Authoring.TextRenderer
 0x598dd4fd24a4d3ae -    6453048024798385070 - UnityEngine.AudioSource
 0x59a1d5f3fca225e3 -    6458678584518256099 - UnityEngine.Animations.LookAtConstraint
+0x59d79b355fff94c0 -    6473813642914534592 - Peko.NumberTag
 0x59e21d78f80d871b -    6476771619507111707 - UnityEditor.VFXManager
 0x59ee9464a62f4f78 -    6480280073838481272 - UnityEngine.TerrainCollider
 0x59f523a663ccd8d2 -    6482126436215609554 - Unity.Tiny.Rendering.RenderGraphConfig
@@ -2013,6 +2035,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x5c6cfc2050793f95 -    6659975164693397397 - UnityEditor.SearchableEditorWindow
 0x5c82185d2174083a -    6665917186734032954 - Unity.Tiny.Rendering.OriginalVertexBoneIndex
 0x5c9782eabdbb593c -    6671945317689809212 - UnityEngine.SpeedTreeWindAsset
+0x5ceed7c0d5355db2 -    6696526919157243314 - Peko.StartMessage
 0x5d0e9981bddf0a49 -    6705465677716589129 - UnityEngine.Animations.RotationConstraint
 0x5d197eab093ce648 -    6708532393004557896 - UnityEngine.Sprite
 0x5d65c0b8b94edd6d -    6729997117790543213 - Unity.Entities.Editor.EntityDebugger
@@ -2134,6 +2157,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x6e62c03e9232d5d1 -    7954131266863027665 - Unity.Tiny.Rendering.SimpleMaterial
 0x6e8673b9119cbc12 -    7964180229752929298 - UnityEngine.UI.GridLayoutGroup
 0x6eb58a29466bfe1d -    7977434224836476445 - UnityEditor.LightingExplorerWindow
+0x6edef96935be821b -    7989097019270398491 - Peko.DefaultMessage
 0x6efe5c5056528d33 -    7997931488371969331 - UnityEditor.UI.ScrollbarEditor
 0x6f02124d960c5b29 -    7998976012602596137 - Unity.Entities.Entity
 0x6f168c8b37eb3128 -    8004739917264138536 - Unity.Tiny.Rendering.BlendShapeWeight
@@ -2195,6 +2219,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x78cfd32ae70de29d -    8705408785948992157 - UnityEditor.DoubleCurvePresetLibraryEditor
 0x78db7a00fbc1822b -    8708688449093337643 - Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousM
 0x78e355d8d3f5a24c -    8710900494022058572 - UnityEngine.Rendering.UI.DebugUIHandlerPanel
+0x78f57e4700e882a4 -    8716011497268478628 - Peko.PlayerEndAnimTag
 0x790216f254bb7812 -    8719557058602170386 - UnityEditor.AvatarPreview+ObjectSelectorOperation
 0x790ce48bac4adf4d -    8722597866851983181 - UnityEngine.PointEffector2D
 0x79152cfb239f08be -    8724929310246242494 - UnityEditor.NoneTool
@@ -2330,6 +2355,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x8f069bbe1ebdf636 -   10306096038145816118 - UnityEditor.HingeJointEditor
 0x8f073881f24373b9 -   10306268403027112889 - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
 0x8f09a4d5bcc772c4 -   10306950460116267716 - Unity.Scenes.ResolvedSceneHash
+0x8f97dbb6a4b0def3 -   10346980246400589555 - Peko.Authoring.NumbersComponent
 0x8f9a5ae6f3eda112 -   10347683041818550546 - UnityEditorInternal.State
 0x8fe7f5d8b5d56f97 -   10369526978156261271 - Unity.Tiny.Particles.EmitterInitialNonUniformRotation
 0x9033833f16633cc8 -   10390793072255646920 - Unity.Entities.BlobAssetOwner
@@ -2368,6 +2394,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x9432895577646556 -   10678748666617161046 - UnityEngine.Animator
 0x945397ef83b96e83 -   10688053395643264643 - UnityEditor.AudioClipInspector
 0x947f3048bba6c2fb -   10700324328599634683 - Unity.Scenes.Editor.SubSceneImporter
+0x94808d0bcfa0dcd7 -   10700707796499881175 - Peko.RunSpeed
 0x949522f663af28f6 -   10706502130772945142 - TMPro.EditorUtilities.TMP_SubMesh_Editor
 0x94a0fa0de7ae8b14 -   10709834851515534100 - UnityEngine.AI.NavMeshAgent
 0x94b53405b9707b4d -   10715528087588600653 - Unity.Tiny.Rendering.DemoSpinner
@@ -2456,6 +2483,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xa302bf17e02d6f0e -   11746160887401901838 - UnityEditor.AssemblyDefinitionImporterInspector
 0xa3166fc622f83e38 -   11751703174450789944 - UnityEngine.OcclusionPortal
 0xa37df2a45bc28a0d -   11780838987999119885 - Unity.Entities.CodeGen.Tests.TestTypes.BoidInAnotherAssembly
+0xa3c1754b47bd27c4 -   11799841464873985988 - Peko.Authoring.TimerComponent
 0xa3dd819189c02eac -   11807736260116623020 - Unity.U2D.Entities.SpriteRenderer
 0xa418ee641937097c -   11824462935348414844 - Unity.U2D.Entities.Physics.Authoring.PhysicsSettingsAuthoring
 0xa42de7cc0763e5be -   11830366659655493054 - Unity.Transforms.Translation
@@ -2543,6 +2571,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xb2e1733257340486 -   12889710268559656070 - Unity.Scenes.ResolveSceneReferenceSystem+AssetDependencyTrackerState
 0xb30d115a3cc70efe -   12901987586750746366 - UnityEngine.MeshFilter
 0xb31f97c123dbd8e9 -   12907201912853223657 - UnityEditor.Rendering.Universal.UniversalRenderPipelineAssetEditor
+0xb342b08ef50b83ec -   12917080809295021036 - Peko.Timer
 0xb34b8a0a8af56b30 -   12919571733928045360 - MaterialOverride
 0xb3b55462fc660748 -   12949349087691802440 - UnityEditor.ProjectWindowCallback.DoCreateSpritePolygon
 0xb3ff106592c2d159 -   12970103480290300249 - Unity.Entities.Editor.EntitySelectionProxyEditor
@@ -2763,6 +2792,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xdb17c8345e570d10 -   15787307146017180944 - UnityEditor.Rendering.FilterWindow
 0xdb25c4cd40a1e121 -   15791244054276202785 - Peko.Authoring.BackgroundComponent
 0xdb292c2c62628b48 -   15792202137492163400 - Unity.Tiny.Sprite
+0xdb3aa8718b62fc38 -   15797123848578726968 - Peko.CarrotSpawner
 0xdb52ae5acfa66306 -   15803885747450569478 - Peko.CarrotTag
 0xdb6be9d722c07a79 -   15810988027024538233 - Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousMI_Tag
 0xdb817dbacb62802c -   15817061607531511852 - UnityEditor.UnityConnectSettings
@@ -2837,6 +2867,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xe64a9a198ef88d64 -   16594245211563527524 - UnityEditor.Graphs.AnimationStateMachine.AddStateMachineBehaviourComponentWindow
 0xe64b65c349b58dd4 -   16594469141406387668 - UnityEditor.ModelInspector
 0xe6e5ac7974744b89 -   16637894036034964361 - UnityEditor.SpriteRendererEditor
+0xe7a3a79b50726b8b -   16691368929476635531 - Peko.NumberPlace
 0xe7a8ef452f3313ae -   16692855099272401838 - UnityEditor.Graphs.AnimationBlendTree.Node
 0xe7a992311b4acbd5 -   16693034233434393557 - Unity.Tiny.Particles.EmitterCircleSource
 0xe7ac56b433568ded -   16693813250710998509 - UnityEditor.UI.ButtonEditor
@@ -2854,6 +2885,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xe96f6c9ff2e942c4 -   16820782567483065028 - UnityEditor.UI.DropdownEditor
 0xe99df9c60115de5d -   16833885610997833309 - UnityEngine.Rendering.CameraSwitcher
 0xe9ade225f2aa5744 -   16838363234421069636 - UnityEditor.GraphicsSettingsWindow+VideoShadersEditor
+0xe9f7f2cf83786eb9 -   16859210703162601145 - Peko.NumberSpriteBuffer
 0xea04aee0a879d965 -   16862795184704444773 - UnityEditor.Experimental.GraphView.GraphViewMinimapWindow
 0xea0e1b6e838b47ad -   16865447816016381869 - UnityEngine.WebCamTexture
 0xea1c3e1da8902b6f -   16869426601326029679 - Unity.Physics.PhysicsMassOverride
