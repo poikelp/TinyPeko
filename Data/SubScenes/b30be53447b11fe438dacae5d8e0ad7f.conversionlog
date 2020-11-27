@@ -1,3 +1,5 @@
+Log: Exported Asset: aa341156d8e332b7c465aa22a823e7a9 = Assets/Sprites/carrot_G.png
+Log: Exported Asset: 4682106413d679bfc2628fb47b60b9c7 = Assets/Sprites/carrot.png
 Log: Exported Asset: 8488abde076d5f1231cf0c75871b5023 = Assets/Sprites/number_digtal0.png
 Log: Exported Asset: 679330197ed93a7b9f73c2159af7957e = Assets/Sprites/number_digtal1.png
 Log: Exported Asset: 11ff82e792248a041e4bb866f242e684 = Assets/Sprites/number_digtal2.png
@@ -14,7 +16,6 @@ Log: Exported Asset: c5fe60415aea987536bd6552fceeedfc = Assets/Sprites/_ull.png
 Log: Exported Asset: e59f340cdd92dc03d138268dacc0e376 = Assets/Sprites/background.png
 Log: Exported Asset: 0aabeca5b560036e5c4a474eee909d7c = Assets/Sprites/ground.png
 Log: Exported Asset: d36cd649ecf00be7b9a039c54f78500c = Assets/Sprites/Stay.png
-Log: Exported Asset: 4682106413d679bfc2628fb47b60b9c7 = Assets/Sprites/carrot.png
 Log: Exported Asset: 495cf153a61fca315479f6334ecdbc63 = Assets/Sprites/_IME.png
 Log: Exported Asset: f18d58cd1476c440ce77bd673d95f989 = Assets/Sprites/run.png
 Log: Exported Asset: f320e33cb60cf221ea3b71458d96151f = Assets/Sprites/stay3.png
@@ -47,7 +48,7 @@ Log: 0x54a625e44f7041fb -    6099604407835443707 - Unity.U2D.Entities.Physics.Ph
 Log: 0x59d79b355fff94c0 -    6473813642914534592 - Peko.NumberTag
 Log: 0x0a333af99617f673 -     734996007830943347 - Peko.JumpData
 Log: 0x9a2c78dce225e5b0 -   11109387270898443696 - Unity.Tiny.Image2DLoadFromFileGuids
-Log: 0xdb3aa8718b62fc38 -   15797123848578726968 - Peko.CarrotSpawner
+Log: 0x27b626b596f22250 -    2861517174603915856 - Peko.CarrotSpawner
 Log: 0x97490261b3c2de08 -   10901246991677971976 - Unity.Transforms.LocalToWorld
 Log: 0x8e078e59e0039706 -   10234305194884306694 - Unity.U2D.Entities.Physics.PhysicsVelocity
 Log: 0x5ceed7c0d5355db2 -    6696526919157243314 - Peko.StartMessage

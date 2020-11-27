@@ -226,6 +226,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x272e7718a09d4e48 -    2823324964065463880 - UnityEngine.UI.HorizontalLayoutGroup
 0x27480c186043308b -    2830525664636121227 - UnityEngine.Rendering.UI.DebugUIHandlerEnumHistory
 0x27546c5cb242794c -    2834009210906376524 - Unity.Entities.EditorRenderData
+0x27b626b596f22250 -    2861517174603915856 - Peko.CarrotSpawner
 0x27e63c0afd21fe65 -    2875051430016843365 - UnityEditor.PresetLibraryManager
 0x27fd4370e4a42359 -    2881533488738345817 - UnityEngine.Effector2D
 0x2809c161783811d2 -    2885049660680442322 - UnityEngine.Rendering.Universal.DepthOfField
@@ -832,6 +833,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x8c90cf5c39e5ff1a -   10128823556971560730 - UnityEditorInternal.Transition
 0x8ca381049cb9a45d -   10134085443323012189 - UnityEngine.Rendering.UI.DebugUIHandlerValue
 0x8cd4f9445d3bf87d -   10148009932389873789 - UnityEngine.ShaderVariantCollection
+0x8d4210c8b36771b3 -   10178716562000146867 - Peko.GoldTag
 0x8d554c2930cfbc4d -   10184129872164535373 - UnityEditor.ProjectWindowCallback.DoCreateNewAsset
 0x8d6ed009ca3969ce -   10191311747252054478 - UnityEngine.XR.WSA.HolographicEmulationWindow
 0x8d76935f79bd0a4d -   10193496844873304653 - Unity.Tiny.Text.TextMeshRenderer
@@ -1287,7 +1289,6 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xdb17c8345e570d10 -   15787307146017180944 - UnityEditor.Rendering.FilterWindow
 0xdb25c4cd40a1e121 -   15791244054276202785 - Peko.Authoring.BackgroundComponent
 0xdb292c2c62628b48 -   15792202137492163400 - Unity.Tiny.Sprite
-0xdb3aa8718b62fc38 -   15797123848578726968 - Peko.CarrotSpawner
 0xdb52ae5acfa66306 -   15803885747450569478 - Peko.CarrotTag
 0xdb6be9d722c07a79 -   15810988027024538233 - Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousMI_Tag
 0xdb817dbacb62802c -   15817061607531511852 - UnityEditor.UnityConnectSettings
@@ -1731,6 +1732,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x272e7718a09d4e48 -    2823324964065463880 - UnityEngine.UI.HorizontalLayoutGroup
 0x27480c186043308b -    2830525664636121227 - UnityEngine.Rendering.UI.DebugUIHandlerEnumHistory
 0x27546c5cb242794c -    2834009210906376524 - Unity.Entities.EditorRenderData
+0x27b626b596f22250 -    2861517174603915856 - Peko.CarrotSpawner
 0x27e63c0afd21fe65 -    2875051430016843365 - UnityEditor.PresetLibraryManager
 0x27fd4370e4a42359 -    2881533488738345817 - UnityEngine.Effector2D
 0x2809c161783811d2 -    2885049660680442322 - UnityEngine.Rendering.Universal.DepthOfField
@@ -2337,6 +2339,7 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0x8c90cf5c39e5ff1a -   10128823556971560730 - UnityEditorInternal.Transition
 0x8ca381049cb9a45d -   10134085443323012189 - UnityEngine.Rendering.UI.DebugUIHandlerValue
 0x8cd4f9445d3bf87d -   10148009932389873789 - UnityEngine.ShaderVariantCollection
+0x8d4210c8b36771b3 -   10178716562000146867 - Peko.GoldTag
 0x8d554c2930cfbc4d -   10184129872164535373 - UnityEditor.ProjectWindowCallback.DoCreateNewAsset
 0x8d6ed009ca3969ce -   10191311747252054478 - UnityEngine.XR.WSA.HolographicEmulationWindow
 0x8d76935f79bd0a4d -   10193496844873304653 - Unity.Tiny.Text.TextMeshRenderer
@@ -2792,7 +2795,6 @@ b30be53447b11fe438dacae5d8e0ad7f = Assets/Scenes/toplevel/New Sub Scene.unity
 0xdb17c8345e570d10 -   15787307146017180944 - UnityEditor.Rendering.FilterWindow
 0xdb25c4cd40a1e121 -   15791244054276202785 - Peko.Authoring.BackgroundComponent
 0xdb292c2c62628b48 -   15792202137492163400 - Unity.Tiny.Sprite
-0xdb3aa8718b62fc38 -   15797123848578726968 - Peko.CarrotSpawner
 0xdb52ae5acfa66306 -   15803885747450569478 - Peko.CarrotTag
 0xdb6be9d722c07a79 -   15810988027024538233 - Unity.Rendering.BuiltinMaterialPropertyUnity_MatrixPreviousMI_Tag
 0xdb817dbacb62802c -   15817061607531511852 - UnityEditor.UnityConnectSettings
