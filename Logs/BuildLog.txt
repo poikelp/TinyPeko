@@ -1,18 +1,109 @@
-[126/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
-[129/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
-[140/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
-[141/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/catalog.bin
+[ 50/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[ 51/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/catalog.bin
+[ 52/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/f320e33cb60cf221ea3b71458d96151f
+[ 53/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
+[ 54/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/7e0a50bfcd686f449869cefc4f31f9cb.0.entities
+[ 55/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/7e0a50bfcd686f449869cefc4f31f9cb.entityheader
+[ 56/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/7e0a50bfcd686f449869cefc4f31f9cb.conversionlog
+[ 57/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[ 58/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/f6b7a21d03f8da8452d8c2c22bf28d64
+[ 59/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.entityheader
+[ 60/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.conversionlog
+[ 61/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/ea11ffa5caeab2c4ad35eb7428163ec3
+[ 62/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/d36cd649ecf00be7b9a039c54f78500c
+[ 63/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/c261b0efaa5a8c0dc82824acdcb46bbb
+[ 64/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/f18d58cd1476c440ce77bd673d95f989
+[ 65/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/e59f340cdd92dc03d138268dacc0e376
+[ 66/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/c5fe60415aea987536bd6552fceeedfc
+[ 67/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/aa341156d8e332b7c465aa22a823e7a9
+[ 68/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/b59daa2611d5c6ba1e995b8c8a61ff7f
+[ 69/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/679330197ed93a7b9f73c2159af7957e
+[ 70/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/4682106413d679bfc2628fb47b60b9c7
+[ 71/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/8488abde076d5f1231cf0c75871b5023
+[ 72/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/4908b5b6721d4e3a25aa6ae040885298
+[ 73/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/495cf153a61fca315479f6334ecdbc63
+[ 74/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/295d216f5667a0db76c97a475d7cba92
+[ 92/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/4e664bfbc322aeb10043994245c718e8
+[ 93/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/84f90892c865413ecd2fa62675bc0c27
+[ 95/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/11ff82e792248a041e4bb866f242e684
+[100/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/0cdf1210573098e3f226a411ef63afa4
+[101/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/33a6e9bc93b6ff86d781d1d3b678f8a1
+[102/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.0.entities
+[108/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Data/0aabeca5b560036e5c4a474eee909d7c
 [515/638    1s] Csc artifacts/Peko.dll/peko-dotsruntimebuildconfiguration/Peko.dll (+2 others)
 [516/638    1s] ILPostProcessorRunner artifacts/Peko/peko-dotsruntimebuildconfiguration/post_ilprocessing/Peko.dll (+pdb)
 [517/638    1s] TypeRegGen artifacts/Peko/peko-dotsruntimebuildconfiguration/post_typereg/Peko.dll (+70 others)
 [BUSY       6s] Burst artifacts/Peko/peko-dotsruntimebuildconfiguration_bursted/Peko.dll (+70 others)
 [BUSY      16s] Burst artifacts/Peko/peko-dotsruntimebuildconfiguration_bursted/Peko.dll (+70 others)
 [518/638   17s] Burst artifacts/Peko/peko-dotsruntimebuildconfiguration_bursted/Peko.dll (+70 others)
-Compiled 1 library, containing 238 methods, in 17694ms using 10 threads: C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_0.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_2.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_1.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3_merged.wasm
+Compiled 1 library, containing 238 methods, in 17647ms using 10 threads: C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_0.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_2.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_1.wasm,C:\New Unity Project\Library\DotsRuntimeBuild\artifacts\Peko\peko-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3_merged.wasm
 [519/638    4s] UnityLinker artifacts/Peko/peko-dotsruntimebuildconfiguration_stripped/Peko.dll (+70 others)
 [BUSY       6s] Il2Cpp artifacts/Peko/peko-dotsruntimebuildconfiguration_stripped/il2cpp-src
 [520/638    6s] Il2Cpp artifacts/Peko/peko-dotsruntimebuildconfiguration_stripped/il2cpp-src
-[632/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Peko.o
+[522/638    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods.o
+[523/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods1.o
+[524/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods3.o
+[525/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods2.o
+[526/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods6.o
+[527/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods5.o
+[528/638    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods4.o
+[529/638   10s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods7.o
+[530/638    3s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics13.o
+[531/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/GenericMethods8.o
+[532/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics10.o
+[533/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics12.o
+[534/638    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics.o
+[535/638    9s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics11.o
+[536/638   10s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics1.o
+[537/638    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics3.o
+[554/638    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics4.o
+[557/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics5.o
+[561/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics6.o
+[562/638   10s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics2.o
+[564/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics7.o
+[565/638    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Peko.o
+[567/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/StringLiterals.o
+[568/638    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/mscorlib.o
+[571/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/TinyMethods.o
+[572/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics8.o
+[574/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Burst.o
+[575/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Generics9.o
+[576/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities.Runtime.o
+[578/638    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.2D.Entities.Physics1.o
+[579/638    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Jobs.o
+[580/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.LowLevel.o
+[581/638    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.2D.Entities.Physics.o
+[583/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities.o
+[584/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Collections.o
+[587/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Mathematics.Extensions.o
+[589/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Platforms.Common.o
+[592/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities1.o
+[593/638    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Platforms.RunLoop.o
+[596/638    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities2.o
+[597/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Runtime.EntryPoint.o
+[599/638    8s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Entities3.o
+[600/638    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Burst.o
+[603/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Mathematics.o
+[604/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Core.o
+[607/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.2D.o
+[608/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Image2D.o
+[609/638    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Scenes.o
+[610/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Image2D.Web.o
+[611/638    3s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.2D.Native.o
+[613/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Input.o
+[614/638    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.IO.o
+[616/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Input.Web.o
+[618/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.UnityInstance.o
+[620/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Web.o
+[622/638    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.o
+[625/638    4s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native2.o
+[626/638    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native.o
+[627/638    2s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.ZeroJobs.o
+[628/638    1s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/URLOpener.o
+[629/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering1.o
+[630/638    7s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering.Native1.o
+[631/638    6s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Tiny.Rendering2.o
+[632/638    5s] C_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/8d9z/Unity.Transforms.o
 [BUSY       6s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
 [BUSY      16s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
 [BUSY      26s] Link_WebGL_wasm artifacts/Peko/peko-dotsruntimebuildconfiguration/Peko.html (+wasm,js)
@@ -329,4 +420,4 @@ wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11
 [635/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Peko.js
 [636/638    0s] CopyTool ../../Builds/peko-dotsruntimebuildconfiguration/Peko.html
 [           0s] Destroying Roslyn Shared Compiler Server
-*** Bee build success (62.34 seconds - 0:01:02), 15 items updated, 638 evaluated
+*** Bee build success (104.80 seconds - 0:01:44), 106 items updated, 638 evaluated
